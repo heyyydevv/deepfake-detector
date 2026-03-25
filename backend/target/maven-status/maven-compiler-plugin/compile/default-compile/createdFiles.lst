@@ -1,0 +1,6 @@
+com\veralens\detector\DeepfakeDetectorApplication.class
+com\veralens\detector\model\AnalysisResult$RuleResult.class
+com\veralens\detector\service\ImageAnalysisService$RuleOutput.class
+com\veralens\detector\service\ImageAnalysisService.class
+com\veralens\detector\controller\AnalysisController.class
+com\veralens\detector\model\AnalysisResult.class
